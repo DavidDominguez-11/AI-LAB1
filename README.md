@@ -2,7 +2,7 @@
 
 Este repositorio contiene los task 2 y 3 del primer laboratorio de Inteligencia Artificial.
 
-### Tarea 1: Manejo de Datos (task2.py)
+### Task 2: Manejo de Datos (task2.py)
 
 Esta tarea se enfoca en el preprocesamiento de datos, incluyendo:
 - Generación de datos sintéticos con desbalance de clases
@@ -16,7 +16,7 @@ Esta tarea se enfoca en el preprocesamiento de datos, incluyendo:
 - Técnica de undersampling para balancear clases desbalanceadas
 - Visualización de distribuciones antes y después del procesamiento
 
-### Tarea 2: Métricas de Evaluación (task3.py)
+### Task 3: Métricas de Evaluación (task3.py)
 
 Implementación y comparación de métricas de evaluación para modelos de regresión:
 - Error Cuadrático Medio (RMSE)
